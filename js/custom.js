@@ -33,7 +33,7 @@ $(document).ready(function() {
   $(function() {
     $('body').vegas({
         slides: [
-            { src: 'images/logo.png' }
+            { src: 'images/connected-technology.jpg' }
         ],
         timer: false,
         transition: [ 'zoomIn', ],
